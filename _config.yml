@@ -10,11 +10,11 @@ font_awesome: '71be032b81.js'
 
 author:
   name: 'Raisa Velthuis'
-  email: contact@raisavelthuis.com
+  email: raisa.velthuis@villanova.edu
   twitter_username: raisaing
   github_username:  velthuis
   linkedin_username:  raisav
-#  ssrn_username: 2205100
+  ssrn_username: 2205100
 
 # Build settings
 destination: _site
