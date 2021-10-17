@@ -72,10 +72,10 @@
             </li>
             {% endif %}
 
-            {% if site.author.gscholar_user %}
+            {% if site.author.gscholar_username %}
             <!-- Google Scholar -->
             <li class="navigation__item">
-              <a href="https://scholar.google.com/citations?user={{ site.author.gscholar_user }}" title="Google Scholar Page" target="_blank">
+              <a href="https://scholar.google.com/citations?user={{ site.author.gscholar_username }}" title="Google Scholar Page" target="_blank">
                 <i class="ai ai-google-scholar" aria-hidden="true"></i>
                 <span class="label">Google Scholar</span>
               </a>
@@ -88,6 +88,16 @@
               <a href="http://orcid.org/{{ site.author.orcid_id }}" title="ORCID Record Page" target="_blank">
                 <i class="ai ai-orcid" aria-hidden="true"></i>
                 <span class="label">ORCID</span>
+              </a>
+            </li>
+            {% endif %}
+
+            {% if site.author.scopus_id %}
+            <!-- SCOPUS -->
+            <li class="navigation__item">
+              <a href="http://www.scopus.com/inward/authorDetails.url?authorID={{ site.author.scopus_id }}" title="Scopus Author Page" target="_blank">
+                <i class="ai ai-scopus" aria-hidden="true"></i>
+                <span class="label">Scopus</span>
               </a>
             </li>
             {% endif %}
