@@ -4,19 +4,22 @@
 
 - name: Two-stage least squares with double clustered standard errors
   gh_user: velthuis
-  repo: /code/blob/main/2SLS_Cluster2D.sas
+  repo: code
+  file: 2SLS_Cluster2D.sas
   img: /images/SAS_logo_horiz.svg
   desc: Retrieve coefficients and double clustered standard errors from a 2SLS model in SAS.
 
 - name: Import many Excel files into SAS
   gh_user: velthuis
-  repo: /code/blob/main/ImportRussell.sas
+  repo: code
+  file: ImportRussell.sas
   img: /images/SAS_logo_horiz.svg
   desc: Load many Excel files that have the same structure into SAS. This is helpful to import Russell Index constituent data for example.
 
 #- name: Import many CSV files into SAS
 #  gh_user: velthuis
-#  repo: velthuis/blob/main/code/ImportRobinTrack.sas
+#  repo: code
+#  file: ImportRobinTrack.sas
 #  img: /images/SAS_logo_horiz.svg
 #  desc: Load many CSV files that have the same structure into SAS. This is helpful to import RobinTrack, Ancerno, or SEC  data, for example.
 
