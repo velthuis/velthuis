@@ -6,7 +6,7 @@ url: 'http://www.raisavelthuis.com/'
 profilepic: '/images/raisa.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: G-8YLFEXNM95
-font_awesome: 'fontawesome.js'
+font_awesome: '/css/fontawesome.js'
 
 author:
   name: 'Raisa Velthuis'
