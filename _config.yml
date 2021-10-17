@@ -14,7 +14,10 @@ author:
   twitter_username: raisaing
   github_username:  velthuis
   linkedin_username:  raisav
-  ssrn_username: 2205100
+  ssrn_id: 2205100
+  # scopus_id:
+  # orcid_id: 
+  # gscholar_username:
 
 # Build settings
 destination: _site
