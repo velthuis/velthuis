@@ -6,7 +6,7 @@ url: 'http://www.raisavelthuis.com/'
 profilepic: '/images/raisa.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: G-8YLFEXNM95
-#font_awesome: ''
+font_awesome: '71be032b81.js'
 
 author:
   name: 'Raisa Velthuis'
@@ -32,5 +32,5 @@ kramdown:
   hard_wrap: false
 
 #plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot-overview.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
 
