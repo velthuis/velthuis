@@ -1,0 +1,11 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Import many CSV files into SAS
+  gh_user: velthuis
+  repo: ImportCSVs
+  img: https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg
+  desc: Load many CSV files that have the same structure into SAS. This is helpful to import RobinTrack, Ancerno, or SEC data, for example.
+
+
