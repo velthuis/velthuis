@@ -7,14 +7,14 @@
   repo: code
   file: 2SLS_Cluster2D.sas
   img: /images/SAS_logo_horiz.svg
-  desc: Retrieve coefficients and double clustered standard errors from a 2SLS model in SAS.
+  desc: SAS program to perform two-stage least squares regression with double clustered standard errors using proc IML. The model has one regressor and one instrument, and does not include intercepts, following Pastor, Stambaugh, & Taylor (2015). 
 
 - name: Import many Excel files into SAS
   gh_user: velthuis
   repo: code
   file: ImportRussell.sas
   img: /images/SAS_logo_horiz.svg
-  desc: Load many Excel files that have the same structure into SAS. This is helpful to import Russell Index constituent data for example.
+  desc: Imports Russell Indexes constituent data and adds CRSP permnos. This code can be reused to load other sets of Excel files that have the same structure into SAS. 
 
 #- name: Import many CSV files into SAS
 #  gh_user: velthuis
