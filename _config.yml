@@ -2,7 +2,7 @@
 title: Raisa Velthuis' Code Repository
 description: 'Code snippets related to my research'
 url: 'http://www.raisavelthuis.com/'
-/baseurl: '/velthuis'
+baseurl: 'https://velthuis.github.io'
 profilepic: '/images/raisa.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: G-8YLFEXNM95
