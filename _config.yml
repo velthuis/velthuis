@@ -6,7 +6,7 @@ url: 'http://www.raisavelthuis.com/'
 profilepic: '/images/raisa.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: G-8YLFEXNM95
-font_awesome: '71be032b81.js'
+font_awesome: '71be032b81.js' # set up a free account at fontawesome.com to get your ID
 
 author:
   name: 'Raisa Velthuis'
